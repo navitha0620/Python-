@@ -1,0 +1,16 @@
+mystring="Navithatechskills"
+print(mystring[0:5])
+print(mystring[0:-10])
+print(mystring[-15:-10])
+print(mystring[0:5:1])
+#0->4
+#0,1,2,3,4
+print(mystring[0:10:2])
+#0->9
+#0,2,4,6,8
+print("Yemostaadee:\t",mystring[0:5:-1])
+#0->4
+#0
+print("Yemostaadee:\t",mystring[0:-10:-1])
+#0->4
+#0,-1,-2
